@@ -2,8 +2,8 @@
 <br>
 <div align="center" style+"display:inline block">
   <a href="https://github.com/andressavillela"> </a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andressavillela&show_icons=true&theme=discord_old_blurple&inclide_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressavillela&layout=compact&langs_count=7&theme=discord_old_blurple"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andressavillela&show_icons=true&theme=discord_old_blurple&inclide_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressavillela&layout=compact&langs_count=7&theme=discord_old_blurple"/>
     </div>
     <br>
   <h2 style= "font-family: Arial, Helvetica, sans-serif;"> Minhas Tecnologias </h2>
