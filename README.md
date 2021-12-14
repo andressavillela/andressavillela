@@ -6,12 +6,14 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressavillela&layout=compact&langs_count=7&theme=discord_old_blurple"/>
     </div>
     <br>
-  <h2 style= "font-family: Arial, Helvetica, sans-serif;"> Minhas Tecnologias </h2>
+  <h2 style= "font-family: Arial, Helvetica, sans-serif;"> Linguagens </h2>
   
   <div style="display: inline_block" ><br>
     <img alignt="center" alt="HTML-5" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-     <img alignt="center" alt="HTML-5" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-     <img alignt="center" alt="HTML-5" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+     <img alignt="center" alt="CSS-3" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+     <img alignt="center" alt="JavaScript" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img alignt="center" alt="Git" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alignt="center" alt="Git" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   </div>
   <h2>Minhas Redes Sociais</h2>
   <div> 
