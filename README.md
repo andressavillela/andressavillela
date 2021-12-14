@@ -1,6 +1,6 @@
 <h1>Olá, sou Andressa Villela, veja meus projetos!</h1>
 <br>
-<div align="center">
+<div align="center" style+"display:inline block">
   <a href="https://github.com/andressavillela"> </a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andressavillela&show_icons=true&theme=discord_old_blurple&inclide_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressavillela&layout=compact&langs_count=7&theme=discord_old_blurple"/>
