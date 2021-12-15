@@ -1,4 +1,11 @@
-<h1>Olá, sou Andressa Villela, veja meus projetos!</h1>
+<h1>Estudando programação por conta própria desde 2020 👩‍💻</h1>
+<i>
+  <ul>
+    <li>Focada em front-end e design de Websites 🌐</li>
+    <li>Adicionando projetos ao GITHUB em 2021 💻</li>
+    <li>Buscando oportunidades na área 💼</li>
+  </ul>
+</i>
 <br>
 <div align="center" style+"display:inline block">
   <a href="https://github.com/andressavillela"> </a>
