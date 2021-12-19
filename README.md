@@ -2,7 +2,7 @@
 <i>
   <ul>
     <li>Focada em front-end e design de Websites 🌐</li>
-    <li>Adicionando projetos ao GITHUB em 2021 💻</li>
+    <li>Adicionando projetos ao GITHUB em 2022 💻</li>
     <li>Buscando oportunidades na área 💼</li>
   </ul>
 </i>
